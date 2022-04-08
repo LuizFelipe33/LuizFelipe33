@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Olá!! Sou Luiz Felipe😃
+### Olá!! Sou Luiz Felipe, estudante de ADS😃
 
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://luizfelipe33.github.io/Portifoli/)
 [![Linke](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-rodrigues-05071/)
