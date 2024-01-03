@@ -4,8 +4,6 @@
 
 [![Linke](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-rodrigues-05071/)
 
-"![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFelipe33&show_icons=true&theme=synthwave)"
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipe33&layout=compact)](https://github.com/LuizFelipe33/github-readme-stats)
 
 ## Conhecimentos
